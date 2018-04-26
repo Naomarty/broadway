@@ -3,6 +3,12 @@
   text-align: center;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
 /* Header */
 
 .header {
@@ -12,9 +18,22 @@
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 .header p {
   font-size: 18px;
+}
+
+/* Process */
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.process p {
+  font-size: 14px;
 }
