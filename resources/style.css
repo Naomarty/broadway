@@ -26,8 +26,9 @@ h1 {
   font-size: 70px;
 }
 
-.header p {
+.nav {
   font-size: 18px;
+  color: white;
 }
 
 /* Process */
@@ -45,4 +46,13 @@ h3 {
 .subhead {
   color: white;
   background-image: url(images/the-flatiron-building.png);
+}
+
+/* Footer */
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
