@@ -1,3 +1,5 @@
+/* General */
+
 * {
   font-family: "Helvetica", sans-serif;
   text-align: center;
@@ -7,6 +9,10 @@ h1,
 h2,
 h3 {
   font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
 
 /* Header */
@@ -34,6 +40,9 @@ h3 {
   font-size: 23px;
 }
 
-.process p {
-  font-size: 14px;
+/* Design */
+
+.subhead {
+  color: white;
+  background-image: url(images/the-flatiron-building.png);
 }
